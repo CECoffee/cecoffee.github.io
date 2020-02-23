@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 7739c38be718d8e0d824                            #生成的clientID
-  clientSecret: ef2ddf170a86d78f88b28e8826ea3946bd600fe6    #生成的clientSecret
+  clientID: 7c8bc1c9ef22dbea28e6                            #生成的clientID
+  clientSecret: aafa8e8b6250191096a9db92692a32278d825006    #生成的clientSecret
   repo: dimerbone.github.io    #仓库名称
   owner: dimerbone    #github用户名
   admin: dimerbone
