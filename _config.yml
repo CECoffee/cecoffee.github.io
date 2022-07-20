@@ -4,10 +4,10 @@ SEOTitle: DinnerBone的博客 | DiB Blog
 header-img: img/post-bg-desk.jpg
 email: m15857404828@gmail.com
 description: "Every failure is leading towards success."
-keyword: "DiB, DiB Blog, DinnerBone的博客, dimerbone, Linux, Shell"
-url: "http://dimerbone.github.io"          # your host, for absolute URL
+keyword: "DiB, DiB Blog, CECoffee的博客, CECoffee"
+url: "http://cecoffee.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/dimerbone/dimerbone.github.io.git" # you code repository
+github_repo: "https://github.com/cecoffee/cecoffee.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 weibo_username:     5406647305
 zhihu_username:     si-qian-xiang-hou-30-65
-github_username:    dimerbone
+github_username:    CECoffee
 facebook_username:  force.grumn
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 7c8bc1c9ef22dbea28e6                            #生成的clientID
   clientSecret: aafa8e8b6250191096a9db92692a32278d825006    #生成的clientSecret
-  repo: dimerbone.github.io    #仓库名称
-  owner: dimerbone    #github用户名
-  admin: dimerbone
+  repo: cecoffee.github.io    #仓库名称
+  owner: cecoffee    #github用户名
+  admin: cecoffee
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,16 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "忘年",
-        href: "https://p0wer.me"
-    },{
         title: "简书·BY",
         href: "https://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "流水天涯",
-        herf: "https://www.liushuitianya.top"
-    },{
-        title: "喵·世界",
-        herf: "http://xn--i2r.xn--rhqv96g/"
     }
 ]
