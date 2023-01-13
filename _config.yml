@@ -1,10 +1,10 @@
 # Site settings
-title: DiB Blog
+title: CEC Blog
 SEOTitle: CECoffee0v0的博客 | DiB Blog
 header-img: img/post-bg-desk.jpg
-email: m15857404828@gmail.com
+email: cecoffee0v0@qq.com
 description: "Every failure is leading towards success."
-keyword: "DiB, DiB Blog, CECoffee的博客, CECoffee"
+keyword: "CEC, CEC Blog, CECoffee的博客, CECoffee"
 url: "http://cecoffee.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/cecoffee/cecoffee.github.io" # you code repository
@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 7c8bc1c9ef22dbea28e6                            #生成的clientID
-  clientSecret: aafa8e8b6250191096a9db92692a32278d825006    #生成的clientSecret
+  clientID: 74c1bb2a694729fe4b6b                            #生成的clientID
+  clientSecret: 818f9c972aec11a34e47cdc52c07b2013d79af17    #生成的clientSecret
   repo: cecoffee.github.io    #仓库名称
   owner: cecoffee    #github用户名
   admin: cecoffee
